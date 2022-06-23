@@ -10,4 +10,5 @@
 <li>Criar condicionais que desabilitam o botão de "-" ou "+" quando o número chegar a um determinado valor (ex.: 0 <= count =< 10).</li>
 </ul>
 
-<p>Desenvolvido por Magda Gomes.</p>
+<a href="https://projeto-contador.netlify.app" style="color: black"><button style="border-radius:10px; width: 150px; margin-top: 50px;
+    height: 50px; display: flex; border: none; background-color: #abdee6; align-items: center; justify-content: center">Acesse o Contador</a>
